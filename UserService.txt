@@ -2,3 +2,5 @@
 Get the user data...
 
 Proccess the data
+
+Creating a new branch: For avatar generation for users
